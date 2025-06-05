@@ -33,12 +33,17 @@ Frost uses a nice!nano v2, and a 110mah battery that will last up to 5 months. T
 - Keycaps: Any
 - Foam: https://www.amazon.com/HONKID-Keyboard-Foam-Mechanical-3mm/dp/B0CPPNF7NR?sr=8-4
 
-### Materials:
+### Case:
 
-Assets are in ```/assets```, the pcb is in ```/frost```, the case is in ```/case```, and the firmware is in ```/firmware```.
+Made with Fusion 360. Available at /case.
+
+### Firmware:
+
+The firmware was made with ZMK, since the MCU for the keyboard(a nice!nano v2) was built specifically for use with ZMK. ZMK has inbuilt bluetooth support as well as support for displaying the batery capacity on the paired device. Firmware is at /firmware.
 
 ### Renders: 
 
+![PCB and Case](https://github.com/user-attachments/assets/a46cc77a-f5ac-41d8-8ae0-5886d59abb76)
 ![Schematic](https://hc-cdn.hel1.your-objectstorage.com/s/v3/b4f662f5a937066d842f1df2b81d933781cc0f1c_cleanshot_2025-06-01_at_14.40.17.png)
 ![PCB](https://hc-cdn.hel1.your-objectstorage.com/s/v3/e52fe4e04f64aef6a7810594c349aeeb419c2bca_cleanshot_2025-06-01_at_14.43.55.png)
 ![PCB](https://hc-cdn.hel1.your-objectstorage.com/s/v3/8e2605a99a3ffef96b647e3e74ac65c6e4645698_cleanshot_2025-06-01_at_14.49.07.png)
