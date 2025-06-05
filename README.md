@@ -41,3 +41,4 @@ Assets are in ```/assets```, the pcb is in ```/frost```, the case is in ```/case
 ![PCB](https://hc-cdn.hel1.your-objectstorage.com/s/v3/8e2605a99a3ffef96b647e3e74ac65c6e4645698_cleanshot_2025-06-01_at_14.49.07.png)
 ![PCB 3D View](https://hc-cdn.hel1.your-objectstorage.com/s/v3/7472dd4400217b645455c171a07442d5b0f28683_cleanshot_2025-06-01_at_14.50.39.png)
 ![PCB JLCPCB Render](https://hc-cdn.hel1.your-objectstorage.com/s/v3/d1286d84882b28505fd7c4d1f33979fc95306325_cleanshot_2025-06-01_at_14.53.43.png)
+![Case](https://hc-cdn.hel1.your-objectstorage.com/s/v3/d20aeaf9044a936579b5b53f68dade4a7925de2e_cleanshot_2025-06-04_at_18.27.29.png)
