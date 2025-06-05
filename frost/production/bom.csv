@@ -1,0 +1,10 @@
+﻿Designator,Footprint,Quantity,Value,LCSC Part #
+"D1, D10, D11, D12, D13, D14, D15, D16, D17, D18, D19, D2, D20, D21, D22, D23, D24, D25, D26, D27, D28, D29, D3, D30, D31, D32, D33, D34, D35, D36, D37, D38, D39, D4, D40, D41, D42, D43, D44, D45, D46, D47, D48, D49, D5, D50, D51, D52, D53, D54, D55, D56, D57, D58, D59, D6, D60, D61, D62, D63, D64, D65, D66, D67, D68, D69, D7, D70, D71, D72, D73, D74, D75, D76, D77, D78, D79, D8, D80, D81, D9",Diode_DO-35,81,Diode,
+"S1, S10, S11, S12, S13, S14, S15, S16, S17, S18, S19, S2, S20, S21, S22, S23, S24, S25, S26, S27, S28, S3, S31, S32, S33, S34, S35, S36, S37, S38, S39, S4, S40, S41, S42, S45, S46, S47, S48, S49, S5, S50, S51, S52, S53, S54, S55, S57, S59, S6, S60, S61, S62, S63, S64, S65, S66, S67, S68, S7, S70, S71, S76, S77, S78, S79, S8, S80, S81, S9",Hotswap_MX_1.00u,70,Keyswitch,
+S29,Hotswap_MX_2.00u,1,Keyswitch,
+"S30, S43",Hotswap_MX_1.50u,2,Keyswitch,
+"S44, S69",Hotswap_MX_1.75u,2,Keyswitch,
+"S56, S58",Hotswap_MX_2.25u,2,Keyswitch,
+"S72, S73, S74",Hotswap_MX_1.25u,3,Keyswitch,
+S75,Hotswap_MX_6.25u,1,Keyswitch,
+U1,Nice_Nano_V2,1,Nice_Nano_V2,
