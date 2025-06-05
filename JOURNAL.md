@@ -77,3 +77,11 @@ Then I worked on other errors, since there were lots of issues with my overlay a
 Eventually, and with a bit of help from Claude Sonnet 4, I managed to produce a working copy of the firmware! It's available in /firmware - both the .uf2 and the full uncompiled version.
 
 Also started the case in Fusion 360 - it's going to be a very simple design since I want the pcb fully exposed. That way the signal strength from the nice!nano isn't impacted at all.
+
+### Jun 4: 35 min - in the call!
+
+Finished the case! It's pretty simple - here's an image:
+
+![Case](https://hc-cdn.hel1.your-objectstorage.com/s/v3/d20aeaf9044a936579b5b53f68dade4a7925de2e_cleanshot_2025-06-04_at_18.27.29.png)
+
+Also applied for the 1 point bonus!
