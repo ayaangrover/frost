@@ -1,0 +1,6 @@
+if SHIELD_FROST
+
+config ZMK_KEYBOARD_NAME
+    default "Frost"
+
+endif
