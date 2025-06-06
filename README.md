@@ -14,12 +14,11 @@ Frost uses a nice!nano v2, and a 110mah battery that will last up to 5 months. T
 | PCB                | $58.23 |
 | Stabilizers        | $9.50  |
 | Hotswap Sockets    | $0.99  |
-| Fasteners          | $3.48  |
-| Diodes             | $2.34  |
+| Fasteners          | $3.66  |
+| Diodes             | $1.99  |
 | Keycaps            | $16.99 |
-| Cable              | $0.99  |
-| Foam               | $7.99  |
-| **Total**          | **$147.81** |
+| Foam               | $9.99  |
+| **Total**          | **$148.65** |
 
 #### Links:
 
@@ -31,7 +30,7 @@ Frost uses a nice!nano v2, and a 110mah battery that will last up to 5 months. T
 - Fasteners(3.2mm diameter on the heatset inserts, m2 heatsets and screws): https://bit.ly/43L1Xq4 and https://bit.ly/3Zae3aP
 - Diodes: random aliexpress brand, doesnt matter which one since they're all very cheap
 - Keycaps: Any
-- Foam: https://www.amazon.com/HONKID-Keyboard-Foam-Mechanical-3mm/dp/B0CPPNF7NR?sr=8-4
+- Foam: [https://www.amazon.com/HONKID-Keyboard-Foam-Mechanical-3mm/dp/B0CPPNF7NR?sr=8-4](https://www.amazon.com/HONKID-Keyboard-Foam-Mechanical-3mm/dp/B0CPPN2J8F?sr=8-4)
 
 ### Case:
 
