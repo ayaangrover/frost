@@ -34,7 +34,7 @@ Frost uses a nice!nano v2, and a 110mah battery that will last up to 5 months. T
 
 ### Case:
 
-Made with Fusion 360. Available at /case.
+Made with Fusion 360. Available at /case. Also includes the plate.
 
 ### Firmware:
 
@@ -46,5 +46,3 @@ The firmware was made with ZMK, since the MCU for the keyboard(a nice!nano v2) w
 ![CleanShot 2025-06-06 at 13 54 51](https://github.com/user-attachments/assets/971613ae-83f4-4d50-b17b-aaba2b2c2df5)
 ![CleanShot 2025-06-05 at 14 49 12](https://github.com/user-attachments/assets/380746e6-5c06-48a4-a5a9-add1c4bf46e1)
 ![CleanShot 2025-06-05 at 14 30 57](https://github.com/user-attachments/assets/999d645b-3490-4126-a261-2ab47e8baca1)
-
-![Case](https://hc-cdn.hel1.your-objectstorage.com/s/v3/d20aeaf9044a936579b5b53f68dade4a7925de2e_cleanshot_2025-06-04_at_18.27.29.png)
