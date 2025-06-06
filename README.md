@@ -43,8 +43,7 @@ The firmware was made with ZMK, since the MCU for the keyboard(a nice!nano v2) w
 ### Renders: 
 
 ![Schematic](https://hc-cdn.hel1.your-objectstorage.com/s/v3/b4f662f5a937066d842f1df2b81d933781cc0f1c_cleanshot_2025-06-01_at_14.40.17.png)
-![PCB](https://hc-cdn.hel1.your-objectstorage.com/s/v3/e52fe4e04f64aef6a7810594c349aeeb419c2bca_cleanshot_2025-06-01_at_14.43.55.png)
-![PCB](https://hc-cdn.hel1.your-objectstorage.com/s/v3/8e2605a99a3ffef96b647e3e74ac65c6e4645698_cleanshot_2025-06-01_at_14.49.07.png)
+![CleanShot 2025-06-06 at 13 54 51](https://github.com/user-attachments/assets/971613ae-83f4-4d50-b17b-aaba2b2c2df5)
 ![CleanShot 2025-06-05 at 14 49 12](https://github.com/user-attachments/assets/380746e6-5c06-48a4-a5a9-add1c4bf46e1)
 ![CleanShot 2025-06-05 at 14 30 57](https://github.com/user-attachments/assets/999d645b-3490-4126-a261-2ab47e8baca1)
 
