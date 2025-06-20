@@ -1,4 +1,5 @@
-# Frost
+![certification-mark-US002745-stacked](https://github.com/user-attachments/assets/e458ba60-b07e-4f14-b65d-513b0aadda7f)
+ #Frost
 ### A 75% bluetooth hotswappable mechanical keyboard with over 3 months of battery.
 ### About:
 Frost uses a nice!nano v2, and a 110mah battery that will last up to 5 months. The nice!nano gives it bluetooth, and my configuration gets all the parts for under $150(other than the case). Also uses Cherry clip-in stabilizers and kailh hotswap sockets and M2(4mm) heatset inserts and screws to fasten the pcb to the case.
